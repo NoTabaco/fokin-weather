@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Foking weather app project with React Native",
+    "githubUrl": "https://github.com/NoTabaco/fokin-weather"
   }
 }
